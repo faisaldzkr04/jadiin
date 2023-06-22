@@ -307,3 +307,5 @@ begin
 	update pegawai set alamat_pegawai = 'Surabaya' where id_pegawai = 5; 
 end -
 delimiter ;
+
+ppp
